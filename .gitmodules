@@ -1,0 +1,6 @@
+[submodule "fi1"]
+	path = fi1
+	url = ../frontend-interview
+[submodule "node"]
+	path = node
+	url = ../learn-nodejs
