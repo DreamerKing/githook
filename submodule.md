@@ -4,3 +4,9 @@
    git submodule add <repostry> module_name
    ```
 在`.gitmodules`文件中会记录子模块的信息
+
+1. 查看子模块状态
+   ```
+   git submodule status
+   ```
+   子模块信息路径：`.git/modules`
